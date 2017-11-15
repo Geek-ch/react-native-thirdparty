@@ -649,3 +649,17 @@ https://github.com/xudafeng/autoresponsive-react-native
 ![图片.png](http://upload-images.jianshu.io/upload_images/1907848-c58c06b172ac19e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 [https://github.com/Cocoon-break/react-native-table-row](https://github.com/Cocoon-break/react-native-table-row)
+
+
+
+#11.16更新  增加几个pdf的组件,具体用法请根据自身项目考虑
+[react-native-pdf](https://github.com/wonday/react-native-pdf)
+[react-native-doc-viewer](https://github.com/philipphecht/react-native-doc-viewer)
+[react-native-html-to-pdf](https://github.com/christopherdro/react-native-html-to-pdf)
+
+
+
+
+
+
+
